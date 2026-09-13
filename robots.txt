@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shaulikoo.github.io/nocta-frequencies/sitemap.xml
